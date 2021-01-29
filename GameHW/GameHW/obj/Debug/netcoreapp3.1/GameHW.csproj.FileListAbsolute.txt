@@ -1,0 +1,13 @@
+C:\Users\burak\source\repos\GameHW\GameHW\bin\Debug\netcoreapp3.1\GameHW.exe
+C:\Users\burak\source\repos\GameHW\GameHW\bin\Debug\netcoreapp3.1\GameHW.deps.json
+C:\Users\burak\source\repos\GameHW\GameHW\bin\Debug\netcoreapp3.1\GameHW.runtimeconfig.json
+C:\Users\burak\source\repos\GameHW\GameHW\bin\Debug\netcoreapp3.1\GameHW.runtimeconfig.dev.json
+C:\Users\burak\source\repos\GameHW\GameHW\bin\Debug\netcoreapp3.1\GameHW.dll
+C:\Users\burak\source\repos\GameHW\GameHW\bin\Debug\netcoreapp3.1\GameHW.pdb
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.AssemblyInfo.cs
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.dll
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.pdb
+C:\Users\burak\source\repos\GameHW\GameHW\obj\Debug\netcoreapp3.1\GameHW.genruntimeconfig.cache
